@@ -1,0 +1,88 @@
+STEP translation to Solid Edge
+Date: torsdag,april 28,2022 03:23
+Source File: C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\SKF_61807-2RS1.stp
+Author: License CC BY-ND 4.0
+Organization: CADENAS
+Source System: PARTsolutions
+
+Hardware:
+Processor: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+Operating System: Windows 10
+Installed Memory: 7.7 GB
+
+Software Information
+Parasolid Version: 32.1.222
+PSBodyShop Version: 32.1.94
+Step Adapter Version: 5.0.107
+Solid Edge Version: 221.00.00.114 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\SKF_61807-2RS1.asm
+|--+Created SE Part File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART1.par
+|--+Created SE Part File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART2.par
+|--+Created SE Part File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART3.par
+|--+Created SE Part File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
+|--+Reusing File C:\Users\adamf\OneDrive\Dokument\GitHub\Produktprojekt\CAD\Drivlina (motor och koppling)\Delar\_SKF_61807-2RS1_PART4.par
++Total Parts: 24
++Assemblies: 0
++Solid Bodies: 24
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 02
